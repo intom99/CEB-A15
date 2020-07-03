@@ -2,8 +2,6 @@
 Project Team by A15
 ===================
 Website Coffee Shop 
-===================
-HTML - CSS
 ===========================================
 1. Muhammad Mufti Mubarok  (Header-Nav)
 2. Iin Anisul Rahmah       (Main1-Jumbotron)
