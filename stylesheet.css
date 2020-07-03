@@ -311,3 +311,50 @@ li {
   width: 50%;
 }
 /*end of main 2*/
+
+/*footer*/
+
+footer img {
+  width: 125px;
+}
+
+footer p, footer h2 {
+  opacity:0.6;
+  font-family: 'Yellowtail';
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 20px;
+}
+
+
+.facebook {
+  background-color: black;
+  color: white;
+}
+
+.twitter {
+  background-color: black;
+  color: white;
+  margin: 0 15px;
+}
+
+.instagram {
+  background-color: black;
+  color: white;
+}
+
+
+.fa {
+  margin-right:5px;
+}
+
+/*end of footer*/

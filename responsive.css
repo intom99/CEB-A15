@@ -6,38 +6,6 @@
   }
   /*end of main 1*/
   /*main 2*/
-  /* .coffee-desc{
-  width:90%;
-  text-align:center;
-  padding:50px 20px 30px 20px;
-  font-size:15px;
-}
-.cozy-desc{
-  width:90%;
-  text-align:center;
-  padding:50px 30px 30px 10px;
-  font-size:15px;
-}
-li {
-  color: white;
-  height: 300px;
-  font-style:italic;
-text-align:center;
-border:0;
-overflow:hidden;
-}
-.coffee-img{
-  margin:-130px -130px -150px -10px;
-}
-.cozy-img{
-  margin:-100px 0px 0 -100px;
-}
-.li2:hover{
-  font-size:12px;
-}
-.li3:hover{
-  font-size:12px;
-}*/
 .coffee-menu, .cozy-gallery{
     padding-top: 50px;
   }
@@ -137,4 +105,38 @@ overflow:hidden;
     margin-bottom: 20px;
   }
   /*end of main 3*/
+
+  /*footer*/
+  .lesson {
+    width: 100%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .btn {
+    width: 80%;
+  }
+
+  .facebook, .twitter{
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  /* Tambahkan CSS untuk menu-icon */
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .top-wrapper{
+    font-size: 14px;
+    line-height: 20px;
+    font-family: 'Yellowtail';
+    text-align: center;
+  }
 }
