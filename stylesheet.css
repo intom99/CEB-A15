@@ -307,10 +307,11 @@ li {
 }
 .li1{
   background-image: url("https://images.unsplash.com/photo-1497935586351-b67a49e012bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80");
+  background-size: cover;
 }
 .li4{
   background-image: url("https://images.unsplash.com/photo-1577410548918-21a5ca03f42c?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
-
+  background-size: cover;
 }
 
 .flex-list li {
