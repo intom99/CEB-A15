@@ -1,5 +1,5 @@
 # CEB-A15
-Project Team by A15
+Project Team
 ===================
 Website Coffee Shop 
 ===========================================
